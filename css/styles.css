@@ -48,6 +48,7 @@ h1 {
 
 #features{
   padding: 7% 15%;
+  background-color: #fff;
 }
 
 .feature-box {
@@ -175,4 +176,8 @@ section.pricing {
 
 #pricing {
   padding: 100px;
+}
+
+.pricing-colom {
+  padding: 3% 2%;
 }
